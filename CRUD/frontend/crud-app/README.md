@@ -1,11 +1,11 @@
-[✅] Crear el componente de registro
-[✅] Crear el componente de actualización
-[✅] Crear el componente de listado
-[✅] Crear la store, slices y provider para redux
-[✅] Crear los reducers
-[✅] Consumir la api 
-[✅] Realizar validaciones a los datos de los fomularios
-[✅] Implementar react-router
+#[✅] Crear el componente de registro 
+#[✅] Crear el componente de actualización
+#[✅] Crear el componente de listado
+#[✅] Crear la store, slices y provider para redux
+#[✅] Crear los reducers
+#[✅] Consumir la api 
+#[✅] Realizar validaciones a los datos de los fomularios
+#[✅] Implementar react-router
 
 SERVICIOS
 [✅] Servicio para crear una persona
