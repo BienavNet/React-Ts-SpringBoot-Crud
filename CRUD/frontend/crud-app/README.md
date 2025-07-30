@@ -1,3 +1,5 @@
+# LISTADO DE FUNCIONES
+
 * [✅] Crear el componente de registro 
 * [✅] Crear el componente de actualización
 * [✅] Crear el componente de listado
@@ -7,15 +9,15 @@
 * [✅] Realizar validaciones a los datos de los fomularios
 * [✅] Implementar react-router
 
-SERVICIOS
-[✅] Servicio para crear una persona
-[✅] Servicio para editar una persona
-[✅] Servicio para eliminar una persona
-[✅] Servicio para obtener el listado de las personas
-[✅] Servicio para obtener los datos de una persona en específico
+# SERVICIOS
+* [✅] Servicio para crear una persona
+* [✅] Servicio para editar una persona
+* [✅] Servicio para eliminar una persona
+* [✅] Servicio para obtener el listado de las personas
+* [✅] Servicio para obtener los datos de una persona en específico
 
 
-personaMockup
+# personaMockup
 => id
 => name
 => email
@@ -23,7 +25,7 @@ personaMockup
 => isActive
 
 
-endpoints
+# endpoints
 /personas => endpoint principal
 GET / => obtener lista de personas
 GET /{ID} => obtener los datos de una persona
