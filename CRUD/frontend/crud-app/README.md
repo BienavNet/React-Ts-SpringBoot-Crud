@@ -18,17 +18,17 @@
 
 
 # personaMockup
-=> id
-=> name
-=> email
-=> username
-=> isActive
+- => id
+- => name
+- => email
+- => username
+- => isActive
 
 
 # endpoints
-/personas => endpoint principal
-GET / => obtener lista de personas
-GET /{ID} => obtener los datos de una persona
-POST /create => para crear un nuevo registro
-PUT /update/{id} => para actualizar un registro
-DELETE /delete/{id} => para eliminar un registro
+- /personas => endpoint principal
+- GET / => obtener lista de personas
+- GET /{ID} => obtener los datos de una persona
+- POST /create => para crear un nuevo registro
+- PUT /update/{id} => para actualizar un registro
+- DELETE /delete/{id} => para eliminar un registro
